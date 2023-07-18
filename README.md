@@ -13,7 +13,10 @@ It had application of the concepts I had learnt in week 0 1.e. Pandas,Numpy,Matp
 # Week 2
 In week 2 I was provided with reading material from which I learnt about supervised learning,unsupervised learning,regression,K means clustering,Random Forest,Data visualisation. This actually was an intro to ML and it took a lot of time but was pretty interesting.
 # Week 3
-I am yet to complete week3 . But I have started learning Intro to AI through the resources provided for week 3
-
+I have completed the week3 videos which contains and explains python's contribution in AI,the videos were pretty long so I completed them in my vacation.
+# Week 4
+In week 4 , the content was based on Multilayer Perceptrons (MLPs), activation functions, gradients, and the importance of Batch Normalization which I felt were very new but still very interesting
+# Project
+I am yet to complete the project,I am still working on it.
 
 
